@@ -9,7 +9,7 @@ const Map = () => {
 
     
   useEffect(() => {
-    // if (map.current) return; // initialize map only once
+    // if (map.current) return; // initialize map only once for useEffect 
     const map = new mapboxgl.Map({
       container: "map",
       style: 'mapbox://styles/mapbox/streets-v11',
