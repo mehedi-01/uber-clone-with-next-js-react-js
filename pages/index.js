@@ -36,7 +36,7 @@ export default function Home() {
         </Header>
         <ActionButoons>
         <ActionButoon>
-          <ActionButoonImage  src="https://i.dlpng.com/static/png/6453338_preview.png" />
+          <ActionButoonImage  src="https://i.dlpng.com/static/png/2149_preview.png" />
           Ride</ActionButoon>
         <ActionButoon>
         <ActionButoonImage  src="https://i.ibb.co/n776JLm/bike.png" />
@@ -109,5 +109,5 @@ h-3/5
 `
 
 const InputButton = tw.div`
-h-20 bg-gray-200 text-2xl p-4
+h-20 bg-gray-200 text-2xl p-4 flex  items-center mt-8
 `
