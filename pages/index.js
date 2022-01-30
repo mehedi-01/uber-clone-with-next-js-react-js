@@ -36,7 +36,7 @@ export default function Home() {
         </Header>
         <ActionButoons>
         <ActionButoon>
-          <ActionButoonImage  src="https://i.dlpng.com/static/png/2149_preview.png" />
+          <ActionButoonImage  src="https://p.kindpng.com/picc/s/41-410968_episode-interactive-car-overlay-hd-png-download.png" />
           Ride</ActionButoon>
         <ActionButoon>
         <ActionButoonImage  src="https://i.ibb.co/n776JLm/bike.png" />
