@@ -18,7 +18,6 @@ export default function Home() {
   //   center: ,
   //   zoom: ,
   //   });
-
   return (
     <Wrapper>
       <Map />
